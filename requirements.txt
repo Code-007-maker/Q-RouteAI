@@ -1,0 +1,4 @@
+numpy
+numba
+# only needed for figs.py (charts / diagrams):
+matplotlib
